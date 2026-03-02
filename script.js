@@ -10,3 +10,7 @@ links.forEach(link => {
         alert('Você clicou em: ' + this.innerText);
     });
 });
+
+function acao(){
+    alert('Fodeu');
+}
