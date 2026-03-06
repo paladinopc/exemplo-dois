@@ -12,5 +12,11 @@ links.forEach(link => {
 });
 
 function acao(){
-    alert('Fodeu');
+    alert('F*deu');
+}
+
+function saidasDados(){
+    console.log('Output Console');
+    alert('Output Alert"');
+    document.write("Output DOM");
 }
